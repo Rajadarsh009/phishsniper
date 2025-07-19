@@ -1,0 +1,30 @@
+                                     =====>A POWERFUL TELEGRAM BOT BASED MALICIOUS WEB SCANNER<=====
+
+⚔️ Telegram Bot + VirusTotal Tool Installation Guide (Linux/Kali/Parrot)
+
+🧩 Step 1: Clone the Tool
+==> git clone https://github.com/Rajadarsh009/phishsniper.git
+==> cd phishsniper
+
+🐍 Step 2: Python Environment Setup
+Use this command to avoid pip errors:
+==> python3 -m pip install python-telegram-bot==20.3 requests --break-system-packages
+
+🚀 Step 4: Run the Tool
+==> python3 phishsniper.py
+
+now minimize the screen and go to our telegram bot 
+
+===> @PhishSniper_bot
+
+start the bot 
+
+put any website link for checking it is suspicious , malicious or not 
+
+you will see results as this 
+
+🔍 Scan Report:
+🧨 Malicious: 
+⚠️ Suspicious: 
+❌ Undetected:
+
